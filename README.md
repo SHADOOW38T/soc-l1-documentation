@@ -61,6 +61,32 @@ Examples of tools used in SOC investigations:
 - MITRE ATT&CK
 - Threat Intelligence platforms
 
+
+
 ## Purpose
 
 The purpose of this repository is to demonstrate practical SOC L1 investigation and documentation skills through structured examples and repeatable procedures.
+
+
+
+_________________________________________________________________________________________________________________________
+
+Always ask these questions to yourself!
+
+Who?
+Who is generating the authentication attempts?
+
+
+What?
+What activity is occurring?
+
+Where?
+Which endpoint is being targeted?
+
+When?
+When did the activity begin and end?
+
+
+How much?
+How extensive is the activity?
+
