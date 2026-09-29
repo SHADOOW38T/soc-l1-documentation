@@ -1,5 +1,7 @@
 # 🛡️ SOC L1 Documentation | توثيق SOC L1
 
+<img width="2560" height="1447" alt="Image" src="https://github.com/user-attachments/assets/ecf000c2-33ed-4da7-ae80-bf81757755cc" />
+
 A practical and structured documentation framework for **Security Operations Center (SOC) Level 1 analysts**, focused on alert triage, investigation, evidence collection, incident documentation, and escalation.
 
 إطار عملي ومنظم لتوثيق عمل **محلل مركز العمليات الأمنية (SOC L1)**، يركز على فرز التنبيهات، التحقيق، جمع الأدلة، توثيق الحوادث، والتصعيد.
